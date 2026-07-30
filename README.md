@@ -71,15 +71,16 @@ cont.: loop through different parameters and calculate mean EFFICIENCY of the de
 9. Tabs to switch between summary/charts to searchable alert and anomaly log
 
 
-## Zapier to automate alerts and notifications.
-Created a Zapier flow that monitors my Google Drive for updated alerts_summary_only.csv files.
---> Sends  email alert when a new summary is detected, auto-fills body with these metrics:
-Output (kWh)
-Average Efficiency
-Max Module Temp
+## Automated alerts and notifications.
+Created a Zapier flow that monitors Google Drive for updated alerts_summary_only.csv files.
+--> Sends  email and slack alert when a new summary is detected, auto-fills body with these metrics:
+* Output (kWh)
+* Average Efficiency
+* Max Module Temp
+* Recommendations
+![Main UI](images/Slack-Notification-Solaire.png)
 
-
-##
+## In Progress:
 - Refine UI to look like figma base and add features
 - Login system not created yet
 
