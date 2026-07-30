@@ -78,7 +78,7 @@ Created a Zapier flow that monitors Google Drive for updated alerts_summary_only
 * Average Efficiency
 * Max Module Temp
 * Recommendations
-![Main UI](images/Slack-Notification-Solaire.png)
+![Slack Alerts](images/Slack-Notification-Solaire.png)
 
 ## In Progress:
 - Refine UI to look like figma base and add features
